@@ -3,7 +3,7 @@
 Nesse projeto foi feita uma comparação entre as 5 principais seleções favoritas ao título em relação:
 - Média de altura;
 - Média de idade;
-- Essas duas médias em relação a posição de casa seleção.
+- Essas duas médias em relação a posição de cada seleção.
 
 Informações tirada do site da FIVB:
 
